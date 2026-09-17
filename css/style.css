@@ -36,11 +36,6 @@ header {
     background-color: #0D9488;
 }
 
-h1 {
-    margin-top: 5px;
-    text-align: center;
-    color: #1F2937;
-}
 
 .vehicle-link {
     color: #FFFFFF;
@@ -52,4 +47,8 @@ h1 {
 
 .vehicle-link:hover {
     background-color: #0D9488;
+}
+
+h1{
+    text-align: center;
 }
